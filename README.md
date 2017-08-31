@@ -1,2 +1,2 @@
 # cc4033.github.io
-Chester's Page
+GitHub Pages dedicated to Chester's projects built by Chester
